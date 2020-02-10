@@ -1,0 +1,41 @@
+
+#image {
+     background: url(./download.jpg) no-repeat;
+     background-size: 90vh 90vh;
+
+     width: auto;
+}
+
+.btn {
+    padding: 1%;
+    margin-left: 10vh;
+    width: 10vh;
+}
+
+#buttons {
+    margin-top: 60vh;
+    height: 10%;
+    max-height:100%;
+    width: 80%;
+}
+#display {
+    margin-top: 10vh;
+    height:20vh ;
+    width: 350px;
+    margin-left: 300px;
+}
+.letter-button{ 
+    padding: 5px;
+    color:darkcyan; 
+
+}
+.letter { 
+    width: 30px;
+    border-style: solid;
+    padding: 5px;
+    float: left;
+    margin: 5px;
+}
+#clear {
+    margin-left: 20px;
+}
